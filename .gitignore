@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- VS Code / IDEs ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- OS-specific junk ---
+.DS_Store
+Thumbs.db
+
+# --- Project-specific ---
+# Generated figures (can be re-created by running project.ipynb)
+# figures/
+
+# If you DON'T want to track the compiled report PDF, uncomment this:
+# report/report.pdf
